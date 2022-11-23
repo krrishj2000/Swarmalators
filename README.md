@@ -21,7 +21,7 @@ You can access the online simulation of the same model from [here](https://obser
   * **scipy**
 2. The programs are interdependant, so they should be placed in the same folder.
 3. You can run main.py for plotting and animating data, and scan_parameter.py to scan parameters.
-4. The files will be names according to their parameters itself, so it is easy for you to find them.
+4. The files will be named according to their parameters itself, so it is easy for you to find them.
 5. Thats it, enjoy!
 
 ## Sample plots ##
