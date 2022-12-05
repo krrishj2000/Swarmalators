@@ -29,7 +29,11 @@ You can access the online simulation of the same model from [here](https://obser
 ![J=0 90_ea=0 00_er=0 00_r=0 00](https://user-images.githubusercontent.com/99133819/203034764-3727d75d-0b6f-41a7-bf43-1fdcdd97ab91.svg)
 
 ## Sample animations ##
-https://user-images.githubusercontent.com/99133819/203034800-be6fe221-a897-4dd6-909c-720ea420ec56.mp4
+
+
+https://user-images.githubusercontent.com/99133819/205567923-c8e0a3ac-bfd6-4592-977c-f0efc77df221.mp4
+
+
 
 ## Pseudocode for generate_Data.py ##
 ```python
