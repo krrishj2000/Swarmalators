@@ -12,7 +12,7 @@
 </picture>
 
 
-You can access the online simulation of the same model from [here](https://observablehq.com/d/7cca4d73289b5e1e).
+You can access the online simulation of the same model from [here](https://observablehq.com/d/7cca4d73289b5e1e). The model is taken from the paper: [Swarmalators with competitive time-varying phase interactions [Gourab K Sar et al]](https://iopscience.iop.org/article/10.1088/1367-2630/ac5da2).
 
 ## Just note
 1. You need to install the following packages first: 
